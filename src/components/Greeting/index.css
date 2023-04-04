@@ -1,0 +1,22 @@
+.list-btn {
+  list-style-type: none;
+  margin-left: 35px;
+}
+
+.btn {
+  border-radius: 15px;
+  border: 2px solid #db1c48;
+  color: #db1c48;
+  font-size: 14px;
+  background-color: white;
+  padding: 5px;
+  width: 80px;
+  text-align: center;
+  font-weight: 400;
+  font-family: roboto;
+}
+
+.active-btn {
+  background-color: #db1c48;
+  color: white;
+}
